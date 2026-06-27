@@ -32,4 +32,4 @@
 | return_1yr_pct | Float | 1 year return % |
 | return_3yr_pct | Float | 3 year return % |
 | expense_ratio_pct | Float | Expense ratio % |
-| risk_grade | String | Risk grade |
+| risk_grade | String | Risk grade 
